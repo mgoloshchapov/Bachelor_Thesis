@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.23)  22 JUN 2024 23:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.23)  23 JUN 2024 17:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1468,7 +1468,7 @@ e
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
 (./parts/Annotation.tex
-<images/QuantumComputer.jpg, id=210, 1445.4pt x 963.6pt>
+<images/QuantumComputer.jpg, id=214, 1445.4pt x 963.6pt>
 File: images/QuantumComputer.jpg Graphic file (type jpg)
 <use images/QuantumComputer.jpg>
 Package pdftex.def Info: images/QuantumComputer.jpg  used on input line 9.
@@ -1525,7 +1525,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 1.
 
-<images/Array49.png, id=304, 165.61874pt x 161.60374pt>
+<images/Array49.png, id=309, 165.61874pt x 161.60374pt>
 File: images/Array49.png Graphic file (type png)
 <use images/Array49.png>
 Package pdftex.def Info: images/Array49.png  used on input line 14.
@@ -1537,7 +1537,7 @@ Overfull \hbox (18.07137pt too wide) in paragraph at lines 21--22
  []
 
 [8 <./images/Array49.png>]
-<images/initialization_scheme.pdf, id=317, 760.99927pt x 469.57237pt>
+<images/initialization_scheme.pdf, id=322, 760.99927pt x 469.57237pt>
 File: images/initialization_scheme.pdf Graphic file (type pdf)
 <use images/initialization_scheme.pdf>
 Package pdftex.def Info: images/initialization_scheme.pdf  used on input line 2
@@ -1556,25 +1556,25 @@ T1/cmr/m/n/12 6\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 8[]$\T2A/cmr/m/n/12 . Так как
 СВЧ-излучение
  []
 
-<images/shf_gates.pdf, id=368, 488.534pt x 211.61641pt>
+<images/shf_gates.pdf, id=373, 488.534pt x 211.61641pt>
 File: images/shf_gates.pdf Graphic file (type pdf)
 <use images/shf_gates.pdf>
 Package pdftex.def Info: images/shf_gates.pdf  used on input line 74.
 (pdftex.def)             Requested size: 409.49348pt x 177.37875pt.
 [10]
-<images/atom_scheme_raman.pdf, id=388, 430.58376pt x 227.79202pt>
+<images/atom_scheme_raman.pdf, id=393, 430.58376pt x 227.79202pt>
 File: images/atom_scheme_raman.pdf Graphic file (type pdf)
 <use images/atom_scheme_raman.pdf>
 Package pdftex.def Info: images/atom_scheme_raman.pdf  used on input line 90.
 (pdftex.def)             Requested size: 460.6753pt x 243.72113pt.
  [11 <./images/shf_gates.pdf>]
-<images/pulse_scheme_raman.pdf, id=420, 357.22751pt x 245.0468pt>
+<images/pulse_scheme_raman.pdf, id=425, 357.22751pt x 245.0468pt>
 File: images/pulse_scheme_raman.pdf Graphic file (type pdf)
 <use images/pulse_scheme_raman.pdf>
 Package pdftex.def Info: images/pulse_scheme_raman.pdf  used on input line 97.
 (pdftex.def)             Requested size: 307.12207pt x 210.68004pt.
  [12 <./images/atom_scheme_raman.pdf> <./images/pulse_scheme_raman.pdf>]
-<images/rydberg_blockade_scheme.pdf, id=541, 562.5267pt x 304.20229pt>
+<images/rydberg_blockade_scheme.pdf, id=546, 562.5267pt x 304.20229pt>
 File: images/rydberg_blockade_scheme.pdf Graphic file (type pdf)
 <use images/rydberg_blockade_scheme.pdf>
 Package pdftex.def Info: images/rydberg_blockade_scheme.pdf  used on input line
@@ -1584,7 +1584,7 @@ Package pdftex.def Info: images/rydberg_blockade_scheme.pdf  used on input line
 
 pdfTeX warning: pdflatex (file ./images/Main_setup_vs_Raman_EN.pdf): PDF inclus
 ion: found PDF version <1.7>, but at most version <1.5> allowed
-<images/Main_setup_vs_Raman_EN.pdf, id=545, 853.58266pt x 426.79138pt>
+<images/Main_setup_vs_Raman_EN.pdf, id=550, 853.58266pt x 426.79138pt>
 File: images/Main_setup_vs_Raman_EN.pdf Graphic file (type pdf)
 <use images/Main_setup_vs_Raman_EN.pdf>
 Package pdftex.def Info: images/Main_setup_vs_Raman_EN.pdf  used on input line 
@@ -1596,123 +1596,123 @@ Overfull \hbox (3.2574pt too wide) in paragraph at lines 1--1
 -ских
  []
 
-<images/raman_scheme.pdf, id=574, 182.71683pt x 173.93994pt>
+<images/raman_scheme.pdf, id=579, 182.71683pt x 173.93994pt>
 File: images/raman_scheme.pdf Graphic file (type pdf)
 <use images/raman_scheme.pdf>
 Package pdftex.def Info: images/raman_scheme.pdf  used on input line 24.
 (pdftex.def)             Requested size: 255.93245pt x 243.65489pt.
 [14 <./images/Main_setup_vs_Raman_EN.pdf>] [15 <./images/raman_scheme.pdf>]
 [16] [17]
-Overfull \hbox (5.33376pt too wide) in paragraph at lines 188--189
+Overfull \hbox (5.33376pt too wide) in paragraph at lines 189--190
 \T2A/cmr/m/n/12 ро-ва-ние ре-а-ли-за-ций ато-ма в оп-ти-че-ской ло-вуш-ке, на-п
 ри-мер, с по-мо-щью ал-го-рит-ма Метрополиса-
  []
 
 [18]
-Overfull \hbox (14.41472pt too wide) in paragraph at lines 195--196
+Overfull \hbox (14.41472pt too wide) in paragraph at lines 196--197
 []\T2A/cmr/m/n/12 Посчитать зна-че-ние $\OML/cmm/m/it/12 a \OT1/cmr/m/n/12 = []
 []$\T2A/cmr/m/n/12 . Для сим-мет-рич-ных рас-пре-де-ле-ний $\OML/cmm/m/it/12 a 
 \OT1/cmr/m/n/12 = []$\T2A/cmr/m/n/12 . 
  []
 
-<images/mcmc.pdf, id=761, 578.16pt x 578.16pt>
+<images/mcmc.pdf, id=766, 578.16pt x 578.16pt>
 File: images/mcmc.pdf Graphic file (type pdf)
 <use images/mcmc.pdf>
-Package pdftex.def Info: images/mcmc.pdf  used on input line 213.
+Package pdftex.def Info: images/mcmc.pdf  used on input line 214.
 (pdftex.def)             Requested size: 307.12207pt x 307.12027pt.
 [19] [20 <./images/mcmc.pdf>]
-<images/simple_Omega.pdf, id=837, 505.89pt x 289.08pt>
+<images/simple_Omega.pdf, id=842, 505.89pt x 289.08pt>
 File: images/simple_Omega.pdf Graphic file (type pdf)
 <use images/simple_Omega.pdf>
-Package pdftex.def Info: images/simple_Omega.pdf  used on input line 246.
+Package pdftex.def Info: images/simple_Omega.pdf  used on input line 247.
 (pdftex.def)             Requested size: 245.69296pt x 140.3977pt.
-<images/simple_Omega_total.pdf, id=838, 505.89pt x 289.08pt>
+<images/simple_Omega_total.pdf, id=843, 505.89pt x 289.08pt>
 File: images/simple_Omega_total.pdf Graphic file (type pdf)
 <use images/simple_Omega_total.pdf>
-Package pdftex.def Info: images/simple_Omega_total.pdf  used on input line 247.
+Package pdftex.def Info: images/simple_Omega_total.pdf  used on input line 248.
 
 (pdftex.def)             Requested size: 245.69296pt x 140.3977pt.
-<images/rabi_sample.pdf, id=840, 505.89pt x 216.81pt>
+<images/rabi_sample.pdf, id=845, 505.89pt x 216.81pt>
 File: images/rabi_sample.pdf Graphic file (type pdf)
 <use images/rabi_sample.pdf>
-Package pdftex.def Info: images/rabi_sample.pdf  used on input line 258.
+Package pdftex.def Info: images/rabi_sample.pdf  used on input line 259.
 (pdftex.def)             Requested size: 332.70906pt x 142.59218pt.
  [21 <./images/simple_Omega.pdf> <./images/simple_Omega_total.pdf
 
 pdfTeX warning: pdflatex (file ./images/simple_Omega_total.pdf): PDF inclusion:
  multiple pdfs with page group included in a single page
 >]
-<images/non_monochromatic.pdf, id=947, 433.62pt x 216.81pt>
+<images/non_monochromatic.pdf, id=952, 433.62pt x 216.81pt>
 File: images/non_monochromatic.pdf Graphic file (type pdf)
 <use images/non_monochromatic.pdf>
-Package pdftex.def Info: images/non_monochromatic.pdf  used on input line 267.
+Package pdftex.def Info: images/non_monochromatic.pdf  used on input line 268.
 (pdftex.def)             Requested size: 383.89868pt x 191.95789pt.
  [22 <./images/rabi_sample.pdf> <./images/non_monochromatic.pdf>] [23]
-<images/Stark_measure_drawing.pdf, id=1046, 433.62pt x 216.81pt>
+<images/Stark_measure_drawing.pdf, id=1051, 433.62pt x 216.81pt>
 File: images/Stark_measure_drawing.pdf Graphic file (type pdf)
 <use images/Stark_measure_drawing.pdf>
 Package pdftex.def Info: images/Stark_measure_drawing.pdf  used on input line 3
-30.
+31.
 (pdftex.def)             Requested size: 307.12207pt x 153.56895pt.
 
 [24]
-<images/measurement.pdf, id=1062, 430.5439pt x 356.40572pt>
+<images/measurement.pdf, id=1067, 430.5439pt x 356.40572pt>
 File: images/measurement.pdf Graphic file (type pdf)
 <use images/measurement.pdf>
-Package pdftex.def Info: images/measurement.pdf  used on input line 339.
+Package pdftex.def Info: images/measurement.pdf  used on input line 340.
 (pdftex.def)             Requested size: 358.30386pt x 296.61064pt.
-<images/trap_depth.pdf, id=1064, 433.62pt x 216.81pt>
+<images/trap_depth.pdf, id=1069, 433.62pt x 216.81pt>
 File: images/trap_depth.pdf Graphic file (type pdf)
 <use images/trap_depth.pdf>
-Package pdftex.def Info: images/trap_depth.pdf  used on input line 348.
+Package pdftex.def Info: images/trap_depth.pdf  used on input line 349.
 (pdftex.def)             Requested size: 307.12207pt x 153.56895pt.
  [25 <./images/Stark_measure_drawing.pdf> <./images/measurement.pdf>]
-<images/parametric_heating.pdf, id=1151, 312.52348pt x 227.13818pt>
+<images/parametric_heating.pdf, id=1156, 312.52348pt x 227.13818pt>
 File: images/parametric_heating.pdf Graphic file (type pdf)
 <use images/parametric_heating.pdf>
-Package pdftex.def Info: images/parametric_heating.pdf  used on input line 360.
+Package pdftex.def Info: images/parametric_heating.pdf  used on input line 361.
 
 (pdftex.def)             Requested size: 358.30386pt x 260.42705pt.
 
 [26 <./images/trap_depth.pdf> <./images/parametric_heating.pdf>]
-<images/oscillation_frequencies.pdf, id=1226, 433.62pt x 216.81pt>
+<images/oscillation_frequencies.pdf, id=1231, 433.62pt x 216.81pt>
 File: images/oscillation_frequencies.pdf Graphic file (type pdf)
 <use images/oscillation_frequencies.pdf>
 Package pdftex.def Info: images/oscillation_frequencies.pdf  used on input line
- 369.
+ 370.
 (pdftex.def)             Requested size: 358.30386pt x 179.16158pt.
-<images/parametric_test.pdf, id=1232, 845.1575pt x 425.4445pt>
+<images/parametric_test.pdf, id=1237, 845.1575pt x 425.4445pt>
 File: images/parametric_test.pdf Graphic file (type pdf)
 <use images/parametric_test.pdf>
-Package pdftex.def Info: images/parametric_test.pdf  used on input line 385.
+Package pdftex.def Info: images/parametric_test.pdf  used on input line 386.
 (pdftex.def)             Requested size: 409.49348pt x 206.13908pt.
  [27 <./images/oscillation_frequencies.pdf>]
-<images/temperature.pdf, id=1295, 578.16pt x 289.08pt>
+<images/temperature.pdf, id=1300, 578.16pt x 289.08pt>
 File: images/temperature.pdf Graphic file (type pdf)
 <use images/temperature.pdf>
-Package pdftex.def Info: images/temperature.pdf  used on input line 399.
+Package pdftex.def Info: images/temperature.pdf  used on input line 400.
 (pdftex.def)             Requested size: 307.12207pt x 153.56013pt.
  [28 <./images/parametric_test.pdf> <./images/temperature.pdf>]
-<images/raman_ICQT_res.pdf, id=1383, 845.1575pt x 187.34924pt>
+<images/raman_ICQT_res.pdf, id=1388, 845.1575pt x 187.34924pt>
 File: images/raman_ICQT_res.pdf Graphic file (type pdf)
 <use images/raman_ICQT_res.pdf>
-Package pdftex.def Info: images/raman_ICQT_res.pdf  used on input line 425.
+Package pdftex.def Info: images/raman_ICQT_res.pdf  used on input line 426.
 (pdftex.def)             Requested size: 511.86491pt x 113.47098pt.
  [29 <./images/raman_ICQT_res.pdf>] [30] [31] [32]
-<images/fidelity_BB1.pdf, id=1556, 379.4175pt x 174.6525pt>
+<images/fidelity_BB1.pdf, id=1561, 379.4175pt x 174.6525pt>
 File: images/fidelity_BB1.pdf Graphic file (type pdf)
 <use images/fidelity_BB1.pdf>
-Package pdftex.def Info: images/fidelity_BB1.pdf  used on input line 594.
+Package pdftex.def Info: images/fidelity_BB1.pdf  used on input line 595.
 (pdftex.def)             Requested size: 245.69296pt x 113.09904pt.
-<images/infidelity_BB1.pdf, id=1557, 379.4175pt x 184.69pt>
+<images/infidelity_BB1.pdf, id=1562, 379.4175pt x 184.69pt>
 File: images/infidelity_BB1.pdf Graphic file (type pdf)
 <use images/infidelity_BB1.pdf>
-Package pdftex.def Info: images/infidelity_BB1.pdf  used on input line 595.
+Package pdftex.def Info: images/infidelity_BB1.pdf  used on input line 596.
 (pdftex.def)             Requested size: 245.69296pt x 119.59897pt.
-<images/BB1_Paths.pdf, id=1558, 901.3675pt x 323.2075pt>
+<images/BB1_Paths.pdf, id=1563, 901.3675pt x 323.2075pt>
 File: images/BB1_Paths.pdf Graphic file (type pdf)
 <use images/BB1_Paths.pdf>
-Package pdftex.def Info: images/BB1_Paths.pdf  used on input line 602.
+Package pdftex.def Info: images/BB1_Paths.pdf  used on input line 603.
 (pdftex.def)             Requested size: 511.86491pt x 183.54468pt.
  [33 <./images/fidelity_BB1.pdf> <./images/infidelity_BB1.pdf
 
@@ -1723,32 +1723,32 @@ tiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./images/BB1_Paths.pdf): PDF inclusion: multiple
  pdfs with page group included in a single page
 >]
-<images/BB1_Omega.pdf, id=1634, 505.89pt x 289.08pt>
+<images/BB1_Omega.pdf, id=1639, 505.89pt x 289.08pt>
 File: images/BB1_Omega.pdf Graphic file (type pdf)
 <use images/BB1_Omega.pdf>
-Package pdftex.def Info: images/BB1_Omega.pdf  used on input line 623.
+Package pdftex.def Info: images/BB1_Omega.pdf  used on input line 624.
 (pdftex.def)             Requested size: 245.69296pt x 140.3977pt.
-<images/BB1_Omega_total.pdf, id=1635, 505.89pt x 289.08pt>
+<images/BB1_Omega_total.pdf, id=1640, 505.89pt x 289.08pt>
 File: images/BB1_Omega_total.pdf Graphic file (type pdf)
 <use images/BB1_Omega_total.pdf>
-Package pdftex.def Info: images/BB1_Omega_total.pdf  used on input line 624.
+Package pdftex.def Info: images/BB1_Omega_total.pdf  used on input line 625.
 (pdftex.def)             Requested size: 245.69296pt x 140.3977pt.
  [34]
-<images/pulse_offset_contor.pdf, id=1646, 316.18124pt x 266.9975pt>
+<images/pulse_offset_contor.pdf, id=1651, 316.18124pt x 266.9975pt>
 File: images/pulse_offset_contor.pdf Graphic file (type pdf)
 <use images/pulse_offset_contor.pdf>
-Package pdftex.def Info: images/pulse_offset_contor.pdf  used on input line 633
+Package pdftex.def Info: images/pulse_offset_contor.pdf  used on input line 634
 .
 (pdftex.def)             Requested size: 204.74283pt x 172.89853pt.
-<images/BB1_offset_contor.pdf, id=1647, 316.18124pt x 266.9975pt>
+<images/BB1_offset_contor.pdf, id=1652, 316.18124pt x 266.9975pt>
 File: images/BB1_offset_contor.pdf Graphic file (type pdf)
 <use images/BB1_offset_contor.pdf>
-Package pdftex.def Info: images/BB1_offset_contor.pdf  used on input line 635.
+Package pdftex.def Info: images/BB1_offset_contor.pdf  used on input line 636.
 (pdftex.def)             Requested size: 204.74283pt x 172.89853pt.
-<images/BB1_offset.pdf, id=1648, 348.30125pt x 177.66376pt>
+<images/BB1_offset.pdf, id=1653, 348.30125pt x 177.66376pt>
 File: images/BB1_offset.pdf Graphic file (type pdf)
 <use images/BB1_offset.pdf>
-Package pdftex.def Info: images/BB1_offset.pdf  used on input line 643.
+Package pdftex.def Info: images/BB1_offset.pdf  used on input line 644.
 (pdftex.def)             Requested size: 255.93245pt x 130.5474pt.
  [35 <./images/BB1_Omega.pdf> <./images/BB1_Omega_total.pdf
 
@@ -1767,38 +1767,38 @@ multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./images/BB1_offset.pdf): PDF inclusion: multipl
 e pdfs with page group included in a single page
 >]
-<images/IQ_modulation.pdf, id=1815, 384.05742pt x 198.41658pt>
+<images/IQ_modulation.pdf, id=1820, 384.05742pt x 198.41658pt>
 File: images/IQ_modulation.pdf Graphic file (type pdf)
 <use images/IQ_modulation.pdf>
-Package pdftex.def Info: images/IQ_modulation.pdf  used on input line 655.
+Package pdftex.def Info: images/IQ_modulation.pdf  used on input line 656.
 (pdftex.def)             Requested size: 358.30386pt x 185.12193pt.
-<images/omega_scan.pdf, id=1817, 433.62pt x 289.08pt>
+<images/omega_scan.pdf, id=1822, 433.62pt x 289.08pt>
 File: images/omega_scan.pdf Graphic file (type pdf)
 <use images/omega_scan.pdf>
-Package pdftex.def Info: images/omega_scan.pdf  used on input line 664.
+Package pdftex.def Info: images/omega_scan.pdf  used on input line 665.
 (pdftex.def)             Requested size: 358.30386pt x 238.8821pt.
  [36 <./images/IQ_modulation.pdf>]
-<images/theta_scan.pdf, id=1845, 578.16pt x 289.08pt>
+<images/theta_scan.pdf, id=1850, 578.16pt x 289.08pt>
 File: images/theta_scan.pdf Graphic file (type pdf)
 <use images/theta_scan.pdf>
-Package pdftex.def Info: images/theta_scan.pdf  used on input line 673.
+Package pdftex.def Info: images/theta_scan.pdf  used on input line 674.
 (pdftex.def)             Requested size: 358.30386pt x 179.14835pt.
 
-Overfull \hbox (8.0258pt too wide) in paragraph at lines 678--679
+Overfull \hbox (8.0258pt too wide) in paragraph at lines 679--680
 []\T2A/cmr/m/n/12 Также бы-ла сня-та за-ви-си-мость ве-ро-ят-но-сти воз-буж-де-
 ния от сум-мар-ной дли-тель-но-сти $\OML/cmm/m/it/12 ^^Y$\T2A/cmr/m/n/12 -импул
 ьса
  []
 
-<images/delta_scan.pdf, id=1847, 578.16pt x 433.62pt>
+<images/delta_scan.pdf, id=1852, 578.16pt x 433.62pt>
 File: images/delta_scan.pdf Graphic file (type pdf)
 <use images/delta_scan.pdf>
-Package pdftex.def Info: images/delta_scan.pdf  used on input line 682.
+Package pdftex.def Info: images/delta_scan.pdf  used on input line 683.
 (pdftex.def)             Requested size: 245.69296pt x 184.26952pt.
-<images/delta_scan_offset.pdf, id=1848, 578.16pt x 433.62pt>
+<images/delta_scan_offset.pdf, id=1853, 578.16pt x 433.62pt>
 File: images/delta_scan_offset.pdf Graphic file (type pdf)
 <use images/delta_scan_offset.pdf>
-Package pdftex.def Info: images/delta_scan_offset.pdf  used on input line 683.
+Package pdftex.def Info: images/delta_scan_offset.pdf  used on input line 684.
 (pdftex.def)             Requested size: 245.69296pt x 184.26952pt.
 [37 <./images/omega_scan.pdf> <./images/theta_scan.pdf>] [38 <./images/delta_sc
 an.pdf> <./images/delta_scan_offset.pdf>] [39]) (./parts/Chapter_4.tex
@@ -1808,13 +1808,13 @@ Overfull \hbox (3.77531pt too wide) in paragraph at lines 1--1
  []
 
 [40] [41]
-<images/LP_total.pdf, id=2060, 737.58269pt x 362.89407pt>
+<images/LP_total.pdf, id=2069, 737.58269pt x 362.89407pt>
 File: images/LP_total.pdf Graphic file (type pdf)
 <use images/LP_total.pdf>
 Package pdftex.def Info: images/LP_total.pdf  used on input line 101.
 (pdftex.def)             Requested size: 511.86491pt x 251.8424pt.
  [42]
-<images/CascadeScheme.pdf, id=2076, 94.3525pt x 192.72pt>
+<images/CascadeScheme.pdf, id=2085, 94.3525pt x 192.72pt>
 File: images/CascadeScheme.pdf Graphic file (type pdf)
 <use images/CascadeScheme.pdf>
 Package pdftex.def Info: images/CascadeScheme.pdf  used on input line 119.
@@ -1828,57 +1828,84 @@ Overfull \hbox (0.63248pt too wide) in paragraph at lines 131--132
  []
 
 [44 <./images/CascadeScheme.pdf>] [45]
-<images/phase_trajectories.pdf, id=2148, 867.24pt x 289.08pt>
+<images/phase_trajectories.pdf, id=2156, 867.24pt x 289.08pt>
 File: images/phase_trajectories.pdf Graphic file (type pdf)
 <use images/phase_trajectories.pdf>
 Package pdftex.def Info: images/phase_trajectories.pdf  used on input line 186.
 
 (pdftex.def)             Requested size: 511.86491pt x 170.62187pt.
-<images/phase_spectrum.pdf, id=2153, 722.7pt x 289.08pt>
+<images/phase_spectrum.pdf, id=2161, 722.7pt x 289.08pt>
 File: images/phase_spectrum.pdf Graphic file (type pdf)
 <use images/phase_spectrum.pdf>
 Package pdftex.def Info: images/phase_spectrum.pdf  used on input line 193.
-(pdftex.def)             Requested size: 511.86491pt x 204.74538pt.
- [46 <./images/phase_trajectories.pdf>]
-<images/noise_errors.pdf, id=2212, 722.7pt x 722.7pt>
+(pdftex.def)             Requested size: 409.49348pt x 163.79807pt.
+<images/noise_errors.pdf, id=2165, 722.7pt x 722.7pt>
 File: images/noise_errors.pdf Graphic file (type pdf)
 <use images/noise_errors.pdf>
-Package pdftex.def Info: images/noise_errors.pdf  used on input line 222.
+Package pdftex.def Info: images/noise_errors.pdf  used on input line 224.
 (pdftex.def)             Requested size: 409.49348pt x 409.49516pt.
-<images/ModelScheme.pdf, id=2218, 163.61125pt x 192.72pt>
+ [46 <./images/phase_trajectories.pdf>]
+[47 <./images/phase_spectrum.pdf> <./images/noise_errors.pdf>]
+<images/ModelScheme.pdf, id=2331, 163.61125pt x 192.72pt>
 File: images/ModelScheme.pdf Graphic file (type pdf)
 <use images/ModelScheme.pdf>
-Package pdftex.def Info: images/ModelScheme.pdf  used on input line 233.
+Package pdftex.def Info: images/ModelScheme.pdf  used on input line 237.
 (pdftex.def)             Requested size: 179.15584pt x 211.03104pt.
-<images/AtomScheme.pdf, id=2219, 362.35374pt x 324.21124pt>
+<images/AtomScheme.pdf, id=2332, 362.35374pt x 324.21124pt>
 File: images/AtomScheme.pdf Graphic file (type pdf)
 <use images/AtomScheme.pdf>
-Package pdftex.def Info: images/AtomScheme.pdf  used on input line 235.
+Package pdftex.def Info: images/AtomScheme.pdf  used on input line 239.
 (pdftex.def)             Requested size: 255.93245pt x 228.9944pt.
-
-[47 <./images/phase_spectrum.pdf>] [48 <./images/noise_errors.pdf>] [49 <./imag
-es/ModelScheme.pdf> <./images/AtomScheme.pdf>] [50]
-
-! LaTeX Error: File `images/' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.326 ...udegraphics[width=0.6\textwidth]{images/}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-<images/heterodyne_measurement.pdf, id=2380, 597.37448pt x 448.97014pt>
+ [48 <./images/ModelScheme.pdf> <./images/AtomScheme.pdf>] [49] [50]
+<images/laser_spectrums.pdf, id=2385, 722.7pt x 216.81pt>
+File: images/laser_spectrums.pdf Graphic file (type pdf)
+<use images/laser_spectrums.pdf>
+Package pdftex.def Info: images/laser_spectrums.pdf  used on input line 338.
+(pdftex.def)             Requested size: 486.2701pt x 145.88058pt.
+<images/heterodyne_measurement.pdf, id=2387, 597.37448pt x 448.97014pt>
 File: images/heterodyne_measurement.pdf Graphic file (type pdf)
 <use images/heterodyne_measurement.pdf>
 Package pdftex.def Info: images/heterodyne_measurement.pdf  used on input line 
-335.
+347.
 (pdftex.def)             Requested size: 511.86491pt x 384.7161pt.
-[51]) (./parts/Chapter_5.tex [52 <./images/heterodyne_measurement.pdf>])
+ [51 <./images/laser_spectrums.pdf>]
+<images/laser_spectrums_wide.pdf, id=2447, 722.7pt x 216.81pt>
+File: images/laser_spectrums_wide.pdf Graphic file (type pdf)
+<use images/laser_spectrums_wide.pdf>
+Package pdftex.def Info: images/laser_spectrums_wide.pdf  used on input line 35
+6.
+(pdftex.def)             Requested size: 511.86491pt x 153.55902pt.
+ [52 <./images/heterodyne_measurement.pdf>]
+<images/rr_antitrap.pdf, id=2470, 578.16pt x 289.08pt>
+File: images/rr_antitrap.pdf Graphic file (type pdf)
+<use images/rr_antitrap.pdf>
+Package pdftex.def Info: images/rr_antitrap.pdf  used on input line 367.
+(pdftex.def)             Requested size: 409.49348pt x 204.74538pt.
+ [53 <./images/laser_spectrums_wide.pdf> <./images/rr_antitrap.pdf>]
+<images/rydberg_model.png, id=2583, 361.35pt x 180.675pt>
+File: images/rydberg_model.png Graphic file (type png)
+<use images/rydberg_model.png>
+Package pdftex.def Info: images/rydberg_model.png  used on input line 381.
+(pdftex.def)             Requested size: 358.30386pt x 179.15274pt.
+<images/rydberg_optimal.png, id=2585, 578.16pt x 361.35pt>
+File: images/rydberg_optimal.png Graphic file (type png)
+<use images/rydberg_optimal.png>
+Package pdftex.def Info: images/rydberg_optimal.png  used on input line 388.
+(pdftex.def)             Requested size: 409.49348pt x 255.93173pt.
+ [54 <./images/rydberg_model.png> <./images/rydberg_optimal.png>]
+<images/flattop_scan.pdf, id=2601, 578.16pt x 216.81pt>
+File: images/flattop_scan.pdf Graphic file (type pdf)
+<use images/flattop_scan.pdf>
+Package pdftex.def Info: images/flattop_scan.pdf  used on input line 401.
+(pdftex.def)             Requested size: 460.6753pt x 172.7535pt.
+<images/rydberg_flattop_comp.pdf, id=2604, 722.7pt x 216.81pt>
+File: images/rydberg_flattop_comp.pdf Graphic file (type pdf)
+<use images/rydberg_flattop_comp.pdf>
+Package pdftex.def Info: images/rydberg_flattop_comp.pdf  used on input line 41
+3.
+(pdftex.def)             Requested size: 511.86491pt x 153.55902pt.
+ [55 <./images/flattop_scan.pdf>] [56 <./images/rydberg_flattop_comp.pdf>]) (./
+parts/Chapter_5.tex [57])
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
 26.
 
@@ -1890,33 +1917,33 @@ Overfull \hbox (4.67822pt too wide) in paragraph at lines 29--29
  QuantumOptics. jl: A Julia framework
  []
 
-[53]
+[58]
 Overfull \hbox (4.82582pt too wide) in paragraph at lines 29--29
 []\T2A/cmr/m/n/12 S. Wimperis, ѕ  Broadband and narrowband composite excitation
  sequencesї, [][]Journal of Magnetic
  []
 
-
+[59]
 Overfull \hbox (24.37468pt too wide) in paragraph at lines 29--29
 []\T2A/cmr/m/n/12 I. I. Beterov и M. Saffman, ѕ  Rydberg blockade, F^^Dorster r
 esonances, and quantum state measurements
  []
 
-[54]) [55] (./main.aux)
+) [60] (./main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9ABD2F147004C2D282706B5CEE368A88;14346.
+(rerunfilecheck)             Checksum: B9AAD023C86009EDA8F1C120389AB7A4;14606.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33180 strings out of 478994
- 606960 string characters out of 5858184
- 1371716 words of memory out of 5000000
- 49688 multiletter control sequences out of 15000+600000
+ 33226 strings out of 478994
+ 608535 string characters out of 5858184
+ 1373616 words of memory out of 5000000
+ 49719 multiletter control sequences out of 15000+600000
  426329 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  123i,13n,122p,3509b,2092s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1949,10 +1976,10 @@ ve/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive
 texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2021/te
 xmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2021/texm
 f-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on main.pdf (55 pages, 27755787 bytes).
+Output written on main.pdf (60 pages, 28193125 bytes).
 PDF statistics:
- 2636 PDF objects out of 2984 (max. 8388607)
- 1581 compressed objects within 16 object streams
- 290 named destinations out of 1000 (max. 500000)
- 612 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2955 PDF objects out of 2984 (max. 8388607)
+ 1685 compressed objects within 17 object streams
+ 309 named destinations out of 1000 (max. 500000)
+ 655 words of extra memory for PDF output out of 10000 (max. 10000000)
 
